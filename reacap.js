@@ -16,5 +16,5 @@ function multiply(price1) {
 
 }
 
-console.log(multiply(8));
+console.log(multiply(8)); 
 console.log(multiply(110));

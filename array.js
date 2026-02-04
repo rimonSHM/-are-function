@@ -14,4 +14,4 @@ function arrayForm(input) {
 const nums = [1, 2, 3, 4, 5];
 
 const sum = arrayForm(nums);
-console.log("Sum of number is", sum)
+console.log("Sum of number is", sum);
